@@ -36,7 +36,7 @@ Cite this as:
   howpublished = {GitHub},  
   title  = {Fuel-cell regional utility aircraft multiphysics model},    
   groups = {ARTS-Lab},    
-  url    = {https://github.com/ARTS-Laboratory/ARTS-Laboratory/fuel-cell-regional-utility-aircraft-multiphysics-model},   
+  url    = {https://github.com/ARTS-Laboratory/fuel-cell-regional-utility-aircraft-multiphysics-model},   
 }
 
 <p align="center">
